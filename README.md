@@ -1,2 +1,2 @@
-# getgit
-getting git
+# getgist
+getting gist
